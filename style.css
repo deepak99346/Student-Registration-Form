@@ -1,0 +1,25 @@
+body {
+  justify-items: center;
+}
+.box {
+  height: 500px;
+  width: 500px;
+  border: 2px solid black;
+  text-align: center;
+  font-size: larger;
+  background-color: wheat;
+  font-weight: 700;
+}
+
+#user {
+  width: 300px;
+}
+#email {
+  width: 300px;
+}
+#number {
+  width: 300px;
+}
+#gender {
+  width: 300px;
+}
